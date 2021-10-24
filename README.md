@@ -7,4 +7,4 @@ some stuff I built:
 - sol.wtf ([product](https://sol.wtf/)) ([code](https://github.com/ilmoi/sol_wtf)) ([video](https://www.youtube.com/watch?v=FdLLO_bXxDY))
 - gpu.land ([video](https://www.youtube.com/watch?v=yR6BbMJlDAM))
 
-if you're a defi degen / solana hacker - I want to talk to you `iljamoi@pm.me`
+if you're hacking on solana - hmu `iljamoi@pm.me`
