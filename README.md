@@ -1,5 +1,6 @@
 some stuff I built:
 
+- nft armory ([product](http://nftarmory.me/)) ([code](https://github.com/ilmoi/nft-armory))
 - dbricks.xyz ([product](http://dbricks.xyz/)) ([code](https://github.com/dbricks-xyz/)) ([video](https://www.youtube.com/watch?v=mT5pMV-I688))
 - fomo3d on solana ([code](https://github.com/ilmoi/solana_fomo3d))
 - sol+eth tui wallet in rust ([code](https://github.com/ilmoi/degen-wallet))
