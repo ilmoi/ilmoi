@@ -1,11 +1,8 @@
 some stuff I built:
 
-- nft armory ([product](http://nftarmory.me/)) ([code](https://github.com/ilmoi/nft-armory))
-- dbricks.xyz ([product](http://dbricks.xyz/)) ([code](https://github.com/dbricks-xyz/)) ([video](https://www.youtube.com/watch?v=mT5pMV-I688))
-- fomo3d on solana ([code](https://github.com/ilmoi/solana_fomo3d))
-- sol+eth tui wallet in rust ([code](https://github.com/ilmoi/degen-wallet))
-- mini ethereum in rust ([code](https://github.com/ilmoi/rebuild-ethereum-in-rust))
-- sol.wtf ([product](https://sol.wtf/)) ([code](https://github.com/ilmoi/sol_wtf)) ([video](https://www.youtube.com/watch?v=FdLLO_bXxDY))
+- NFTs: [nft armory](https://github.com/ilmoi/nft-armory) ([live](http://nftarmory.me/)) // [nft ape](https://github.com/ilmoi/nftape.me) ([live](https://nftape.me/))
+- DeFi: [dbricks.xyz](https://github.com/dbricks-xyz/) ([live](http://dbricks.xyz/)) ([video](https://www.youtube.com/watch?v=mT5pMV-I688)) // [fomo3d on solana](https://github.com/ilmoi/solana_fomo3d)
+- Rust: [sol+eth tui wallet](https://github.com/ilmoi/degen-wallet) // [mini ethereum](https://github.com/ilmoi/rebuild-ethereum-in-rust) // [sol.wtf](https://github.com/ilmoi/sol_wtf) ([live](https://sol.wtf/)) 
 - gpu.land ([video](https://www.youtube.com/watch?v=yR6BbMJlDAM))
 
 if you're hacking on solana - hmu `iljamoi@pm.me`
