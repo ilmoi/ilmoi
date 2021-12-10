@@ -5,4 +5,4 @@ some stuff I built:
 - Rust: [sol+eth tui wallet](https://github.com/ilmoi/degen-wallet) // [mini ethereum](https://github.com/ilmoi/rebuild-ethereum-in-rust) // [sol.wtf](https://github.com/ilmoi/sol_wtf) ([live](https://sol.wtf/)) 
 - gpu.land ([video](https://www.youtube.com/watch?v=yR6BbMJlDAM))
 
-if you're hacking on solana and want to colab - hmu on twitter `@_ilmoi`
+LF cohackers to build on solana - DM [@_ilmoi](https://twitter.com/_ilmoi)
